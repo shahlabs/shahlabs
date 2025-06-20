@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🔭 I am a Full Stack Developer with 9.5 years of experience, expertise in Angular, React, Node.js, .NET, Java, SQL, TypeScript, and JavaScript. 
-🌱 I am diving into AWS Blu Age Mainframe Modernization, having obtained Level 1 Certification, and am learning React Native for mobile app development on iOS and Android. I'm currently expanding my skills in GenAI through Prompt Engineering and proof-of-concept projects.
+🔭 I am a Full Stack Developer with 9.5 years of experience, expertise in Angular, React, Node.js, .NET, Java, SQL, TypeScript, and JavaScript. <br/>
+🌱 I am diving into AWS Blu Age Mainframe Modernization, having obtained Level 1 Certification, and am learning React Native for mobile app development on iOS and Android. I'm currently expanding my skills in GenAI through Prompt Engineering and proof-of-concept projects. <br/>
 💬 I have a strong background working in both product-based companies and consulting, managing all phases of enterprise-level application development, from inception through testing, enhancements, migration, automation, and production support.
 I am passionate about building web applications from the ground up and have experience with both legacy systems and open-source technologies. I am committed to continuous learning and staying current in the industry, evidenced by my Azure Fundamentals Certification and Lean Six Sigma White Belt. 
 I perform rigorous code reviews and ensure all projects meet industry standards through unit testing and maintaining Sonar coverage. 
